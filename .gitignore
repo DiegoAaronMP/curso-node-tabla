@@ -1,0 +1,8 @@
+
+# No es necesario respaldar los node modules
+# Todo los modulos necesarios estan en package.json
+# Solo tenemos que hacer npm install
+node_modules/
+
+# Ignoramos los archivos txt de la carpeta salida
+salida/*.txt
